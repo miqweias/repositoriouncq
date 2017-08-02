@@ -329,3 +329,8 @@ Copyright (c) 2012 Dan Eden*/
 	-o-animation-name: shake;
 	animation-name: shake;
 }
+
+
+@media (max-width: 500px) {
+  #texts{display: none;}
+}
